@@ -13,7 +13,6 @@ bot.on('ready', () => {
 var randomQuote = frases[Math.floor(Math.random() * frases.length)];
 var display = JSON.stringify(randomQuote.quote);
 
-// Cada vez que se mande activador '!oracion' el bot respondera con un mensaje
 bot.on('messageCreate', (msg) => {
   if (msg.content === 'Yo te invoco') {
     var interval = setInterval(function(){
