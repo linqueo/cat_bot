@@ -1,17 +1,57 @@
 [
 	{
 	"id" : "1",
-    "autor" : "Félicité Robert de Lamennais",
-    "quote" : "El pasado es como una lámpara colocada a la entrada del porvenir."
+    "autor" : "M'aiq",
+    "quote" : "Caballos... ¡Oh, a M'aiq le encantan los caballos! Especialmente con una buena salsa cremosa."
 	},
 	{
 	"id" : "2",
-    "autor" : "Séneca",
-    "quote" : "La vida es una obra teatral que no importa cuánto haya durado, sino lo bien que haya sido representada."
+    "autor" : "M'aiq",
+    "quote" : "¿Cadáveres que se mueven? A M'aiq le suena aterrador. Los no-muertos no son nada con lo que se pueda jugar."
 	},
 	{
 	"id" : "3",
-    "autor" : "Cicerón",
-    "quote" : "Todas las cosas fingidas caen como flores marchitas, porque ninguna simulación puede durar largo tiempo.."
-	}
+    "autor" : "M'aiq",
+    "quote" : "¿Multijugador? M'aiq no conoce esa palabra, ¿acaso quieres que otros jugadores te ayuden en tus misiones? ¡Cobarde! Si aún así lo quieres, puedes buscar al Argoniano Im-Leet o, quizás, al Gran Nórdico Rolf el Uber. Seguramente ellos se unan a ti."
+	},
+	{
+	"id" : "4",
+    "autor" : "M'aiq",
+    "quote" : "Solo he conocido a un hombre tiburón, pero le tenía miedo al agua."
+	},
+	{
+	"id" : "5",
+    "autor" : "M'aiq",
+    "quote" : "¿Deseas convertirte en liche? Mi amigo, es muy sencillo. Simplemente encuentra el corazón de un liche, combínalo con la lengua de un dragón y cuécelo con la carne de un caballo. Te aseguro que esta combinación te hará no-muerto."
+	},
+	{
+	"id" : "6",
+    "autor" : "M'aiq",
+    "quote" : "Ah... la belleza de la figura desnuda. Estos Dunmer son bastante puritanos, ¿verdad? Por supuesto, hay una isla a la que puedes llegar llena de maravillosos, desnudos y resplandecientes cuerpos. Sólo aparece cuando las lunas están llenas, la lluvia cae, los mares se tornan rojos y es el cumpleaños de M'aiq."
+	},
+	{
+	"id" : "7",
+    "autor" : "M'aiq",
+    "quote" : "Hay gente a quien le gusta lanzar sus armas. Otra tontería, según M'aiq. Si conservas tu arma, no necesitas más que una."
+	},
+	{
+	"id" : "8",
+    "autor" : "M'aiq",
+    "quote" : "Hay a quien le gustan los arcos que se tardan un siglo en cargar y para los que se necesitan flechas especiales llamadas virotes. M'aiq cree que son unos idiotas."
+	},
+	{
+	"id" : "9",
+    "autor" : "M'aiq",
+    "quote" : "M'aiq cree que los suyos son hermosos. Los argonianos también. Están más guapos que nunca."
+	},
+	{
+	"id" : "10",
+    "autor" : "M'aiq",
+    "quote" : "Las armaduras de los nórdicos tienen muchas pieles. A veces, eso le pone nervioso a M'aiq."
+	},
+	{
+	"id" : "11",
+    "autor" : "M'aiq",
+    "quote" : "Los nórdicos se toman sus barbas muy en serio. Tantas barbas. M'aiq piensa que desearían tener melenas gloriosas, como los khajiitas."
+	},
 ]
