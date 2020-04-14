@@ -14,11 +14,11 @@ var randomQuote = frases[Math.floor(Math.random() * frases.length)];
 var display = JSON.stringify(randomQuote.quote);
 
 bot.on('messageCreate', (msg) => {
-  if (msg.content === 'Yo te invoco') {
+  if (msg.content === '!maiq') {
     var interval = setInterval(function(){
         bot.createMessage(msg.channel.id, mensaje)
     },  25200000);
-} else if  (msg.content === 'Maiq dime una frase') {
+} else if  (msg.content === '!maiq') {
   bot.createMessage(msg.channel.id, mensaje);
 }});
 
