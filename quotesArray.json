@@ -1,0 +1,17 @@
+[
+	{
+	"id" : "1",
+    "autor" : "Félicité Robert de Lamennais",
+    "quote" : "El pasado es como una lámpara colocada a la entrada del porvenir."
+	},
+	{
+	"id" : "2",
+    "autor" : "Séneca",
+    "quote" : "La vida es una obra teatral que no importa cuánto haya durado, sino lo bien que haya sido representada."
+	},
+	{
+	"id" : "3",
+    "autor" : "Cicerón",
+    "quote" : "Todas las cosas fingidas caen como flores marchitas, porque ninguna simulación puede durar largo tiempo.."
+	}
+]
